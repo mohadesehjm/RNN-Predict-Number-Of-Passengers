@@ -1,3 +1,4 @@
 # RNN-Predict-Number-Of-Passengers
 
-Another attempt to use Deep-Learning in predicting number of passengers with RNN
+
+Used Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) to predict number of passengers and illustrated model on training dataset and test dataset. 
