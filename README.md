@@ -1,8 +1,8 @@
 # RNN-Predict-Number-Of-Passengers
 
-Used Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) to predict number of passengers and illustrated model on training dataset and test dataset. 
+Used Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) to predict number of passengers and display model on training and test dataset. 
 
-## implementation 
+## implementation and showing results
 First, size of window was considered 5 and this window shifted just one for next item. Test and training data were prepared, followed by training Sequential model with two layers of LSTM, two layers of Dropout and single Dense for final layer.
 
 The results are shown below:
